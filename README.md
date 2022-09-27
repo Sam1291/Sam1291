@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sam1291
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web dev
+<img src="https://i.pinimg.com/originals/57/e0/e5/57e0e576d8a118598ff676ba40a09ddd.jpg">
+- 👋 Hi, I’m @Sam1291<br>
+- 👀 I’m interested in learning new things<br>
+- 🌱 I’m currently learning web dev<br>
 <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6916038665248886784?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6916038665248886784%29"> linked in</a><br>
 <i>"the best view comes after the hardest climbs"</i>
+</body/
 
-<!---
-Sam1291/Sam1291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
